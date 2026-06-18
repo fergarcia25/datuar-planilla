@@ -1,0 +1,188 @@
+{
+    "status": 200,
+    "result": {
+        "code": 200,
+        "info": "OK"
+    },
+    "data": {
+        "datosParticulares": {
+            "nombre": "ELENA ARMINDA",
+            "apellido": "VELASCO",
+            "apellidoNombre": "VELASCO, ELENA ARMINDA",
+            "cuil": 27000738927,
+            "dni": 73892,
+            "tipo": {},
+            "nacionalidad": "ARGENTINA",
+            "anio": 1927,
+            "fechaNacimiento": "1927-04-02T04:00:00Z",
+            "fechaDeceso": "2013-05-22T03:00:00Z",
+            "edad": 97,
+            "sexo": "F",
+            "observaciones": {},
+            "mails": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "domicilio": "JULIAN ALVAREZ 1277",
+            "localidad": "CIUDAD AUTONOMO DE BUENOS AIRES",
+            "provincia": "CAPITAL FEDERAL",
+            "cp": "1414",
+            "domAlternativos": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "scoreAgdEnabled": true,
+            "score": {},
+            "puntaje": -1,
+            "verazEnabled": false,
+            "sujetoObligado": {
+                "estado": null,
+                "fechaCreacion": null,
+                "habilitado": null,
+                "mensaje": "Error al leer la respuesta",
+                "tipoSujeto": null
+            }
+        },
+        "datosLaborales": {
+            "datoLaboral": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "monotributista": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "aportesAM": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "actividad": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "obraSocial": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "empDomesticos": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "domEmpleadores": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "jubilacion": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "vinculos": {
+            "vinculos": {
+                "datos": [
+                    {
+                        "cuil": 27000738927,
+                        "cuilVinculo": 20162086686,
+                        "nombre": "TRIPICCHIO DANTE EDUARDO",
+                        "fechaNacimiento": "1962-11-30T03:00:00Z",
+                        "año": 1962,
+                        "relacion": "HIJO/A",
+                        "sexo": "M",
+                        "edad": 61
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "otrosVinculos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "boletinOficial": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "telefonos": {
+            "datos": [
+                {
+                    "wsp": false,
+                    "dni": 73892,
+                    "tipo": "Fijo",
+                    "nro": "47731059",
+                    "cuil": 27000738927,
+                    "operador": "TELECOM ARGENTINA S.A.",
+                    "tel": "01147731059",
+                    "localidad": "AMBA",
+                    "area": "011"
+                }
+            ],
+            "cantTotal": 1
+        },
+        "telefonosCelulares": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "telefonosAdicionales": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "morosidad": {
+            "informacionBcra": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "chequesRechazados": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "deudoresBancoCentral": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "bienesPersonales": {
+            "automotores": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "automotores_historial": {
+                "datos": [
+                    {
+                        "tramite": "1999-01-18T03:00:00Z",
+                        "dni": 73892,
+                        "tipo": "FURGON",
+                        "cuil": 27000738927,
+                        "dominio": "AXQ368",
+                        "compra": "1996-08-13T03:00:00Z",
+                        "anioModelo": 1996,
+                        "modelo": "FURGON EXPRESS",
+                        "porcentaje": 100,
+                        "marca": "RENAULT",
+                        "origen": "Importado"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "autosembargos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "participacionSocietaria": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "variables": {
+            "variableRechazo": [],
+            "variableAprobada": []
+        },
+        "codigo": "A",
+        "idLog": 54792491,
+        "credito": {
+            "total": 2135,
+            "consumido": 683,
+            "disponible": 1452
+        }
+    },
+    "total_page": 1
+}

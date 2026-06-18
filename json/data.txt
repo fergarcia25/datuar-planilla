@@ -1,0 +1,579 @@
+{
+    "status": 200,
+    "result": {
+        "code": 200,
+        "info": "OK"
+    },
+    "data": {
+        "datosParticulares": {
+            "nombre": "CRISTIAN GABRIEL",
+            "apellido": "MOLINA",
+            "apellidoNombre": "MOLINA, CRISTIAN GABRIEL",
+            "cuil": 23297587099,
+            "dni": 29758709,
+            "tipo": "DNI-EE",
+            "nacionalidad": "ARGENTINA",
+            "anio": 1982,
+            "fechaNacimiento": "1982-01-11T03:00:00Z",
+            "fechaDeceso": {},
+            "edad": 42,
+            "sexo": "M",
+            "observaciones": {},
+            "mails": {
+                "datos": [
+                    {
+                        "dni": 29758709,
+                        "cuil": 23297587099,
+                        "email": "oruga_mol@hotmail.com",
+                        "origen": "0"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "domicilio": "EL PINAR 464",
+            "localidad": "MAIPU",
+            "provincia": "BUENOS AIRES",
+            "cp": "7160",
+            "domAlternativos": {
+                "datos": [
+                    {
+                        "provinciaAlt": "BUENOS AIRES",
+                        "cpAlt": "1980",
+                        "cuil": 23297587099,
+                        "localidadAlt": "BRANDSEN",
+                        "domicilioAlt": "AV.ITUZAINGO 1632 RP 29"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "scoreAgdEnabled": true,
+            "score": 914.0,
+            "puntaje": 5.0,
+            "verazEnabled": false,
+            "sujetoObligado": {
+                "estado": null,
+                "fechaCreacion": null,
+                "habilitado": false,
+                "mensaje": null,
+                "tipoSujeto": null
+            }
+        },
+        "datosLaborales": {
+            "datoLaboral": {
+                "datos": [
+                    {
+                        "relacionDependencia": {
+                            "estado": "Activo",
+                            "razonSocial": "OPERADORA FERROVIARIA SOCIEDAD DEL ESTADO",
+                            "cuit": 30710681771,
+                            "alta": "2018-11-01T03:00:00Z",
+                            "baja": "2024-08-01T03:00:00Z",
+                            "sueldo": "A7",
+                            "cuil": 23297587099
+                        },
+                        "historialSueldo": {
+                            "infoAdicionalEmpleador": {
+                                "actividadempleador": "SERVICIOS COMPLEMENTARIOS PARA EL TRANSPORTE TERRESTRE N.C.P.",
+                                "cantidadempleados": 24218,
+                                "domicilio": {
+                                    "direccion": "RAMOS MEJIA DR. AV. 1302",
+                                    "localidad": "CAPITAL FEDERAL",
+                                    "provincia": "CAPITAL FEDERAL",
+                                    "partido": "CAPITAL FEDERAL",
+                                    "cp": 1104
+                                }
+                            },
+                            "tel": ""
+                        }
+                    },
+                    {
+                        "relacionDependencia": {
+                            "estado": "Inactivo",
+                            "razonSocial": "DESARROLLO DEL CAPITAL HUMANO FERROVIARIO SAPEM",
+                            "cuit": 30663502820,
+                            "alta": "2015-01-01T03:00:00Z",
+                            "baja": "2018-08-09T03:00:00Z",
+                            "sueldo": "A5",
+                            "cuil": 23297587099
+                        },
+                        "historialSueldo": {
+                            "infoAdicionalEmpleador": {
+                                "actividadempleador": "SERVICIOS DE ALMACENAMIENTO Y DEPOSITO EN SILOS",
+                                "cantidadempleados": 1240,
+                                "domicilio": {
+                                    "direccion": "HORNOS GRAL 11 1",
+                                    "localidad": "CAPITAL FEDERAL",
+                                    "provincia": "CAPITAL FEDERAL",
+                                    "partido": "CAPITAL FEDERAL",
+                                    "cp": 1154
+                                }
+                            },
+                            "tel": ""
+                        }
+                    }
+                ],
+                "cantTotal": 2
+            },
+            "monotributista": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "aportesAM": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "actividad": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "obraSocial": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "empDomesticos": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "domEmpleadores": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "jubilacion": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "vinculos": {
+            "vinculos": {
+                "datos": [
+                    {
+                        "cuil": 23297587099,
+                        "cuilVinculo": 27336610902,
+                        "nombre": "ALVAREZ GOPAR IVANA",
+                        "fechaNacimiento": "1988-08-20T03:00:00Z",
+                        "año": 1988,
+                        "relacion": "HIJO/A",
+                        "sexo": "F",
+                        "edad": +.6
+                    },
+                    {
+                        "cuil": 23297587099,
+                        "cuilVinculo": 27214472010,
+                        "nombre": "GOPAR CARMEN MARIA",
+                        "fechaNacimiento": "1969-12-08T03:00:00Z",
+                        "año": 1969,
+                        "relacion": "CONYUGE",
+                        "sexo": "F",
+                        "edad": 54
+                    },
+                    {
+                        "cuil": 23297587099,
+                        "cuilVinculo": 27495285869,
+                        "nombre": "MOLINA LUNA MORENA",
+                        "fechaNacimiento": "2009-06-02T03:00:00Z",
+                        "año": 2009,
+                        "relacion": "HIJO/A",
+                        "sexo": "F",
+                        "edad": 15
+                    }
+                ],
+                "cantTotal": 3
+            },
+            "otrosVinculos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "boletinOficial": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "telefonos": {
+            "datos": [
+                {
+                    "wsp": false,
+                    "dni": 29758709,
+                    "tipo": "Fijo",
+                    "nro": "4615089",
+                    "cuil": 23297587099,
+                    "operador": "TELEFONICA DE ARGENTINA S.A.",
+                    "tel": "02214615089",
+                    "localidad": "ABASTO",
+                    "area": "0221"
+                }
+            ],
+            "cantTotal": 1
+        },
+        "telefonosCelulares": {
+            "datos": [
+                {
+                    "wsp": true,
+                    "dni": 29758709,
+                    "tipo": "Celular",
+                    "nro": "5524851",
+                    "cuil": 23297587099,
+                    "operador": "AMX ARGENTINA S.A.",
+                    "tel": "02215524851",
+                    "localidad": "LA PLATA",
+                    "area": "0221"
+                },
+                {
+                    "wsp": true,
+                    "dni": 29758709,
+                    "tipo": "Celular",
+                    "nro": "4008648",
+                    "cuil": 23297587099,
+                    "operador": "TELEFONICA MOVILES ARGENTINA S.A.",
+                    "tel": "02214008648",
+                    "localidad": "LA PLATA",
+                    "area": "0221"
+                },
+                {
+                    "wsp": false,
+                    "dni": 29758709,
+                    "tipo": "Celular",
+                    "nro": "5705953",
+                    "cuil": 23297587099,
+                    "operador": "AMX ARGENTINA S.A.",
+                    "tel": "02215705953",
+                    "localidad": "LA PLATA",
+                    "area": "0221"
+                },
+                {
+                    "wsp": false,
+                    "dni": 29758709,
+                    "tipo": "Celular",
+                    "nro": "511404",
+                    "cuil": 23297587099,
+                    "operador": "AMX ARGENTINA S.A.",
+                    "tel": "02268511404",
+                    "localidad": "MAIPU (PROV.  BUENOS AIRES)",
+                    "area": "02268"
+                }
+            ],
+            "cantTotal": 4
+        },
+        "telefonosAdicionales": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "morosidad": {
+            "informacionBcra": {
+                "datos": [
+                    {
+                        "periodo": "2024-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 27000.0
+                    },
+                    {
+                        "periodo": "2024-02-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 53000.0
+                    },
+                    {
+                        "periodo": "2024-01-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 78000.0
+                    },
+                    {
+                        "periodo": "2023-12-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 101000.0
+                    },
+                    {
+                        "periodo": "2023-11-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 123000.0
+                    },
+                    {
+                        "periodo": "2023-10-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 145000.0
+                    },
+                    {
+                        "periodo": "2023-09-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 165000.0
+                    },
+                    {
+                        "periodo": "2023-08-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 206000.0
+                    },
+                    {
+                        "periodo": "2023-07-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 244000.0
+                    },
+                    {
+                        "periodo": "2023-06-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 281000.0
+                    },
+                    {
+                        "periodo": "2023-05-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 317000.0
+                    },
+                    {
+                        "periodo": "2023-04-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 351000.0
+                    },
+                    {
+                        "periodo": "2023-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 384000.0
+                    },
+                    {
+                        "periodo": "2023-02-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 413000.0
+                    },
+                    {
+                        "periodo": "2023-01-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 445000.0
+                    },
+                    {
+                        "periodo": "2022-12-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 473000.0
+                    },
+                    {
+                        "periodo": "2022-11-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 502000.0
+                    },
+                    {
+                        "periodo": "2022-10-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 529000.0
+                    },
+                    {
+                        "periodo": "2022-09-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 39,
+                            "entidad": "BANCO MACRO S.A.",
+                            "codigoEnt": "00285",
+                            "tipo": "Entidades Bancarias"
+                        },
+                        "prestamo": 553000.0
+                    }
+                ],
+                "cantTotal": 19
+            },
+            "chequesRechazados": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "deudoresBancoCentral": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "bienesPersonales": {
+            "automotores": {
+                "datos": [
+                    {
+                        "tramite": "2013-06-19T03:00:00Z",
+                        "dni": 29758709,
+                        "tipo": "FAMILIAR",
+                        "cuil": 23297587099,
+                        "dominio": "CXZ689",
+                        "compra": "1999-09-15T03:00:00Z",
+                        "anioModelo": 1999,
+                        "modelo": "KANGOO RN DA AA PACK ABCP",
+                        "porcentaje": 100,
+                        "marca": "RENAULT",
+                        "origen": "Nacional"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "automotores_historial": {
+                "datos": [
+                    {
+                        "tramite": "2014-04-16T03:00:00Z",
+                        "dni": 29758709,
+                        "tipo": "SEDAN 5 PUERTAS",
+                        "cuil": 23297587099,
+                        "dominio": "DUS078",
+                        "compra": "2001-07-19T03:00:00Z",
+                        "anioModelo": 2001,
+                        "modelo": "MEGANE RN TD BIC AA F2",
+                        "porcentaje": 100,
+                        "marca": "RENAULT",
+                        "origen": "Nacional"
+                    },
+                    {
+                        "tramite": "2010-05-07T03:00:00Z",
+                        "dni": 29758709,
+                        "tipo": "FAMILIAR",
+                        "cuil": 23297587099,
+                        "dominio": "ADM967",
+                        "compra": "1995-02-02T03:00:00Z",
+                        "anioModelo": 1995,
+                        "modelo": "R 9 RL",
+                        "porcentaje": 100,
+                        "marca": "RENAULT",
+                        "origen": "Nacional"
+                    },
+                    {
+                        "tramite": "2010-11-05T03:00:00Z",
+                        "dni": 29758709,
+                        "tipo": "SEDAN 4 PUERTAS",
+                        "cuil": 23297587099,
+                        "dominio": "ATH816",
+                        "compra": "1996-04-10T03:00:00Z",
+                        "anioModelo": 1996,
+                        "modelo": "POLO CLASSIC",
+                        "porcentaje": 100,
+                        "marca": "VOLKSWAGEN",
+                        "origen": "Importado"
+                    }
+                ],
+                "cantTotal": 3
+            },
+            "autosembargos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "participacionSocietaria": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "variables": {
+            "variableRechazo": [],
+            "variableAprobada": [
+                "Edad",
+                "Dni",
+                "Laboral",
+                "Fallecidos",
+                "Ultimo periodo BCRA",
+                "Histórico BCRA",
+                "Cheque rechazados",
+                "Historico morosidad",
+                "Cantidad de Consulta"
+            ]
+        },
+        "codigo": "A",
+        "idLog": 52993261,
+        "credito": {
+            "total": 1000,
+            "consumido": 641,
+            "disponible": 359
+        }
+    },
+    "total_page": 1
+}

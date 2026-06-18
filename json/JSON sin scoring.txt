@@ -1,0 +1,605 @@
+{
+    "status": 200,
+    "result": {
+        "code": 200,
+        "info": "OK"
+    },
+    "data": {
+        "datosParticulares": {
+            "nombre": "LAUTARO",
+            "apellido": "MURILLO",
+            "apellidoNombre": "MURILLO, LAUTARO",
+            "cuil": 20459124471,
+            "dni": 45912447,
+            "tipo": "DNI-EA",
+            "nacionalidad": "ARGENTINA",
+            "anio": 2003,
+            "fechaNacimiento": "2003-06-25T03:00:00Z",
+            "fechaDeceso": {},
+            "edad": 21,
+            "sexo": "M",
+            "observaciones": {},
+            "mails": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "domicilio": "DIAG JOSE SALVADOR DE LA RETA 1093 PB CASA",
+            "localidad": "CORDOBA",
+            "provincia": "CORDOBA",
+            "cp": "5000",
+            "domAlternativos": {
+                "datos": [
+                    {
+                        "provinciaAlt": "CORDOBA",
+                        "cpAlt": "5000",
+                        "cuil": 20459124471,
+                        "localidadAlt": "CORDOBA",
+                        "domicilioAlt": "SANTA ROSA 442"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "scoreAgdEnabled": false,
+            "score": {},
+            "puntaje": {},
+            "verazEnabled": false,
+            "sujetoObligado": {
+                "estado": null,
+                "fechaCreacion": null,
+                "habilitado": null,
+                "mensaje": "Error al leer la respuesta",
+                "tipoSujeto": null
+            }
+        },
+        "datosLaborales": {
+            "datoLaboral": {
+                "datos": [
+                    {
+                        "relacionDependencia": {
+                            "estado": "Activo",
+                            "razonSocial": "PRACTIKA S.R.L.",
+                            "cuit": 30716811561,
+                            "alta": "2022-11-01T03:00:00Z",
+                            "baja": "2024-10-01T03:00:00Z",
+                            "sueldo": "A1",
+                            "cuil": 20459124471
+                        },
+                        "historialSueldo": {
+                            "infoAdicionalEmpleador": {
+                                "actividadempleador": "INSTALACON DE MAQUINARIA Y EQUIPOS INDUSTRIALES",
+                                "cantidadempleados": 14,
+                                "domicilio": {
+                                    "direccion": null,
+                                    "localidad": null,
+                                    "provincia": null,
+                                    "partido": null,
+                                    "cp": 0
+                                }
+                            },
+                            "tel": ""
+                        }
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "monotributista": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "aportesAM": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "actividad": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "obraSocial": {
+                "datos": [
+                    {
+                        "descripcion": "O.S. DE MAQUINISTAS DE TEATRO Y TELEVISION",
+                        "codigo": "111308"
+                    }
+                ],
+                "cantTotal": 1
+            },
+            "empDomesticos": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "domEmpleadores": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "jubilacion": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "vinculos": {
+            "vinculos": {
+                "datos": [
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 20479067636,
+                        "nombre": "MORAN THIAGO",
+                        "fechaNacimiento": "2007-03-29T03:00:00Z",
+                        "año": 2007,
+                        "relacion": "HERMANO/A",
+                        "sexo": "M",
+                        "edad": 17
+                    },
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 20285737991,
+                        "nombre": "MURILLO ARIEL",
+                        "fechaNacimiento": "1981-02-04T03:00:00Z",
+                        "año": 1981,
+                        "relacion": "PADRE/MADRE",
+                        "sexo": "M",
+                        "edad": 43
+                    },
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 27435257475,
+                        "nombre": "MURILLO MARIBEL ORIANA",
+                        "fechaNacimiento": "2001-08-16T03:00:00Z",
+                        "año": 2001,
+                        "relacion": "HERMANO/A",
+                        "sexo": "F",
+                        "edad": 23
+                    },
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 20493074629,
+                        "nombre": "MURILLO DOUGLAS JAVIER",
+                        "fechaNacimiento": "2008-12-23T02:00:00Z",
+                        "año": 2008,
+                        "relacion": "HERMANO/A",
+                        "sexo": "M",
+                        "edad": 15
+                    },
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 27385023028,
+                        "nombre": "MORAN LUDMILA AZUL",
+                        "fechaNacimiento": "1994-01-27T03:00:00Z",
+                        "año": 1994,
+                        "relacion": "HERMANO/A",
+                        "sexo": "F",
+                        "edad": 30
+                    },
+                    {
+                        "cuil": 20459124471,
+                        "cuilVinculo": 23186057554,
+                        "nombre": "MORAN NORMA BEATRIZ",
+                        "fechaNacimiento": "1966-09-15T04:00:00Z",
+                        "año": 1966,
+                        "relacion": "PADRE/MADRE",
+                        "sexo": "F",
+                        "edad": 58
+                    }
+                ],
+                "cantTotal": 6
+            },
+            "otrosVinculos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "boletinOficial": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "telefonos": {
+            "datos": [
+                {
+                    "wsp": false,
+                    "dni": 45912447,
+                    "tipo": "Fijo",
+                    "nro": "42077154",
+                    "cuil": 20459124471,
+                    "operador": "TELEFONICA DE ARGENTINA S.A.",
+                    "tel": "01142077154",
+                    "localidad": "AMBA",
+                    "area": "011"
+                }
+            ],
+            "cantTotal": 1
+        },
+        "telefonosCelulares": {
+            "datos": [
+                {
+                    "wsp": false,
+                    "dni": 45912447,
+                    "tipo": "Celular",
+                    "nro": "7405490",
+                    "cuil": 20459124471,
+                    "operador": "TELECOM ARGENTINA S.A.",
+                    "tel": "03517405490",
+                    "localidad": "CORDOBA",
+                    "area": "0351"
+                }
+            ],
+            "cantTotal": 1
+        },
+        "telefonosAdicionales": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "morosidad": {
+            "informacionBcra": {
+                "datos": [
+                    {
+                        "periodo": "2024-08-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 44000.0
+                    },
+                    {
+                        "periodo": "2024-08-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 132000.0
+                    },
+                    {
+                        "periodo": "2024-07-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 218000.0
+                    },
+                    {
+                        "periodo": "2024-06-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 27000.0
+                    },
+                    {
+                        "periodo": "2024-06-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 29000.0
+                    },
+                    {
+                        "periodo": "2024-06-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 128000.0
+                    },
+                    {
+                        "periodo": "2024-05-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 15000.0
+                    },
+                    {
+                        "periodo": "2024-05-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 37000.0
+                    },
+                    {
+                        "periodo": "2024-05-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 151000.0
+                    },
+                    {
+                        "periodo": "2024-04-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 152000.0
+                    },
+                    {
+                        "periodo": "2024-04-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 29000.0
+                    },
+                    {
+                        "periodo": "2024-04-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 58000.0
+                    },
+                    {
+                        "periodo": "2024-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 70000.0
+                    },
+                    {
+                        "periodo": "2024-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 25000.0
+                    },
+                    {
+                        "periodo": "2024-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 25000.0
+                    },
+                    {
+                        "periodo": "2024-02-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 165000.0
+                    },
+                    {
+                        "periodo": "2024-02-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 6000.0
+                    },
+                    {
+                        "periodo": "2024-01-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 156000.0
+                    },
+                    {
+                        "periodo": "2024-01-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 2000.0
+                    },
+                    {
+                        "periodo": "2023-12-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 7000.0
+                    },
+                    {
+                        "periodo": "2023-12-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 151000.0
+                    },
+                    {
+                        "periodo": "2023-11-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 3000.0
+                    },
+                    {
+                        "periodo": "2023-11-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 637,
+                            "entidad": "TARJETA NARANJA S.A.",
+                            "codigoEnt": "70408",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 114000.0
+                    },
+                    {
+                        "periodo": "2023-10-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 519,
+                            "entidad": "MERCADOLIBRE SRL",
+                            "codigoEnt": "55311",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 1000.0
+                    },
+                    {
+                        "periodo": "2023-06-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 2000.0
+                    },
+                    {
+                        "periodo": "2023-05-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 6000.0
+                    },
+                    {
+                        "periodo": "2023-04-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 2000.0
+                    },
+                    {
+                        "periodo": "2023-03-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 5000.0
+                    },
+                    {
+                        "periodo": "2023-02-01T03:00:00Z",
+                        "situacion": "01",
+                        "entidad": {
+                            "id": 222,
+                            "entidad": "NARANJA DIGITAL COMPAÃ‘IA FINANCIERA S.A.U.",
+                            "codigoEnt": "45030",
+                            "tipo": "Financieras"
+                        },
+                        "prestamo": 1000.0
+                    }
+                ],
+                "cantTotal": 29
+            },
+            "chequesRechazados": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "deudoresBancoCentral": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "bienesPersonales": {
+            "automotores": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "automotores_historial": {
+                "datos": [],
+                "cantTotal": 0
+            },
+            "autosembargos": {
+                "datos": [],
+                "cantTotal": 0
+            }
+        },
+        "participacionSocietaria": {
+            "datos": [],
+            "cantTotal": 0
+        },
+        "variables": {
+            "variableRechazo": [],
+            "variableAprobada": [
+                "Edad",
+                "Dni",
+                "Laboral",
+                "Fallecidos",
+                "Ultimo periodo BCRA",
+                "Histórico BCRA",
+                "Cheque rechazados",
+                "Historico morosidad",
+                "Cantidad de Consulta"
+            ]
+        },
+        "codigo": "A",
+        "idLog": 54098563,
+        "credito": {
+            "total": 825,
+            "consumido": 246,
+            "disponible": 579
+        }
+    },
+    "total_page": 0
+}
